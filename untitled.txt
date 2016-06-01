@@ -1,4 +1,4 @@
 First Line
 Second Line
 Third Line(edited in Branch1)
-4 Line
+Forth Line(edited in Branch2, will be merged directly)
